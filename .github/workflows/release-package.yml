@@ -1,0 +1,22 @@
+{
+  "name": "docker81",
+  "version": "1.0.0",
+  "description": "Docker Pulse",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello, World!\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyCremo/Docker.git"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Loic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyCremo/Docker/issues"
+  },
+  "homepage": "https://github.com/NyCremo/Docker#readme"
+}
